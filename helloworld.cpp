@@ -3,7 +3,7 @@
 using namespace std;
 
 /**
- *  version 1.2
+ *  version 1.2.1
  */
 
 int main(int argc, char ** argv){
